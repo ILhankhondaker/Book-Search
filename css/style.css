@@ -13,7 +13,7 @@ html {
   --nav-color: #f4f1f1;
   --search-bar-color: #f4f1f1;
   --result-card-color: #efefef;
-  --follow-color: rgba(0,0,0,0.1);
+  --follow-color: rgba(0, 0, 0, 0.1);
 }
 
 .dark-theme {
@@ -22,7 +22,7 @@ html {
   --nav-color: #26272b;
   --search-bar-color: #3e4046;
   --result-card-color: #3e3f47;
-  --follow-color: rgba(0,0,0,0.1);
+  --follow-color: rgba(0, 0, 0, 0.1);
 }
 
 ::-webkit-scrollbar {
@@ -264,7 +264,7 @@ html {
   color: var(--secondary-color);
 }
 
-.finder {
+.Search {
   font-weight: lighter;
   display: inline-block;
 }

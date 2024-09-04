@@ -3,7 +3,7 @@
 <br><br>
 <img src="https://d33wubrfki0l68.cloudfront.net/710cb0d537d2e7fa6246445c0977ecc994f05f5a/6a3b4/assets/img/jwoc_logo.svg" alt="jwoc" width="300" />
 </p>
-<h1 align="center">Book Finder</h1>
+<h1 align="center">Book Search</h1>
 <h3 align="center">Find the book you want to read next!</h3>
 <div align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
@@ -13,7 +13,7 @@
 
 ## About The Project
 
-Book Finder is your go-to place for all kinds of book related searches, need to read a book but don't know where to find it?
+Book Search is your go-to place for all kinds of book related searches, need to read a book but don't know where to find it?
 
 We got your back! Started in 2022, we are an open-source free search engine with over a million books and more to find out.
 Here you won't just be able to read books but also listen to them.
@@ -29,7 +29,7 @@ So what are you waiting for? Search your favourite book right now!
 
 ## Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -38,12 +38,12 @@ So what are you waiting for? Search your favourite book right now!
 
 Below are the steps to follow to contribute to this project:
 
-**1.** Fork [this](https://github.com/wasimreja/book-finder) repository.
+**1.** Fork [this](https://github.com/wasimreja/book-Search) repository.
 
 **2.** Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_user_name>/book-finder.git
+git clone https://github.com/<your_user_name>/book-Search.git
 ```
 
 where `your_user_name` is your GitHub username.
@@ -51,13 +51,13 @@ where `your_user_name` is your GitHub username.
 **3.** Navigate to the project directory.
 
 ```
-cd book-finder
+cd book-Search
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/wasimreja/book-finder.git
+git remote add upstream https://github.com/wasimreja/book-Search.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -114,6 +114,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Thanks to these wonderful people ✨
 
-<a href="https://github.com/wasimreja/book-finder/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=wasimreja/book-finder" />
+<a href="https://github.com/wasimreja/book-Search/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=wasimreja/book-Search" />
 </a>
